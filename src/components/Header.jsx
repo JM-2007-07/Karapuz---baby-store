@@ -218,7 +218,7 @@ export default function Header() {
                     </Box>
                 </Box>
             </Drawer>
-            <Drawer anchor="right" open={catalogMobileOpen} onClose={() => setCatalogMobileOpen(false)} PaperProps={{sx:{width:{xs:'220px',sm:'270px'},maxWidth:'70%',bgcolor:'#446B80',color:'#FFFFFF',boxShadow:'none'}}}>
+            <Drawer anchor="right" open={catalogMobileOpen} onClose={() => setCatalogMobileOpen(false)} sx={{'& .MuiDrawer-paper':{width:{xs:'88%',sm:'360px'},maxWidth:'380px',bgcolor:'#446B80 !important',color:'#FFFFFF',boxShadow:'none',padding:'20px'}}}>
                 <Box sx={{minHeight:'100vh',display:'flex',flexDirection:'column'}}>
                     <Box sx={{height:'65px',display:'flex',justifyContent:'flex-end',alignItems:'center',px:'12px'}}>
                         <IconButton onClick={() => setCatalogMobileOpen(false)} sx={{color:'#FFFFFF',width:'40px',height:'40px'}}><CloseOutlined /></IconButton>
