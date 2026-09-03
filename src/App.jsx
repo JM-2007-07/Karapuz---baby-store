@@ -24,6 +24,7 @@ const Personal = lazy(() => import('./pages/Personal'))
 const Favorites = lazy(() => import('./pages/Favorites'))
 const Orders = lazy(() => import('./pages/Orders'))
 const Catalog = lazy(() => import('./pages/Catalog'))
+const CatalogFilters = lazy(() => import('./pages/CatalogFilters'))
 const ProductDetails = lazy(() => import('./pages/ProductDetails'))
 const NotFound = lazy(() => import('./pages/NotFound'))
 
@@ -170,6 +171,13 @@ export default function App() {
           element: 
             <Suspense fallback={<Loading/>}>
               <Catalog/>
+            </Suspense>
+        },
+        {
+          path: 'filters/:id',
+          element: 
+            <Suspense fallback={<Loading/>}>
+              <CatalogFilters/>
             </Suspense>
         },
         {

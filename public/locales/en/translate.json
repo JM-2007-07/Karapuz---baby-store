@@ -1,0 +1,796 @@
+{
+  "header": {
+    "catalog": "Product catalog",
+    "search": "What are you looking for?",
+    "find": "Search",
+    "login": "Sign in to your account",
+    "account": "My account",
+    "cart": "Cart",
+    "description": "Online hypermarket\ngoods for children",
+    "city": "City",
+    "cityName": "Moscow"
+  },
+  "nav": {
+    "sales": "Sales",
+    "about": "About us",
+    "blog": "Blog",
+    "wholesale": "Wholesale customers",
+    "return": "Returns",
+    "payment": "Payment and delivery",
+    "contacts": "Contacts"
+  },
+  "catalog": {
+    "sales": "Sales",
+    "cribs": "Cribs",
+    "strollers": "Strollers",
+    "carSeats": "Car seats",
+    "clothes": "Clothes",
+    "feeding": "Feeding",
+    "hygiene": "Hygiene and care",
+    "smartToys": "Smart toys"
+  },
+  "account": {
+    "register": "Sign up",
+    "email": "Email address",
+    "password": "Password",
+    "login": "Sign in",
+    "forgotPassword": "Forgot your password?",
+    "user": "User",
+    "orders": "My orders",
+    "favorites": "My favorites",
+    "settings": "Personal settings",
+    "logout": "Sign out"
+  },
+  "advantages":{
+  "title":"Karapuz is an online hypermarket of children's products. Generations grow up with us!",
+  "allProducts":"All children's products in one place",
+  "lowPrices":"Prices lower than those of competitors",
+  "officialDealers":"Official dealers of the world's best manufacturers",
+  "ecoProduction":"Our own eco-friendly production"
+},
+  "brands": {
+  "previous": "Previous brands",
+  "next": "Next brands",
+  "cybex": "Cybex",
+  "erbesi": "Erbesi"
+},
+"cards": {
+  "addToCart": "Add to cart",
+  "buyNow": "Buy now",
+  "addedToCart": "Product added to cart",
+  "quantity": "Quantity:",
+  "total": "Total:",
+  "goToCart": "Go to cart",
+  "close": "Close",
+  "previous": "Previous products",
+  "next": "Next products",
+  "addToFavorites": "Add to favorites",
+  "removeFromFavorites": "Remove from favorites"
+},
+"footer": {
+  "description": "Online hypermarket of children's products",
+  "about": "About us",
+  "sales": "Sales",
+  "blog": "Blog",
+  "contacts": "Contacts",
+  "return": "Returns and warranty",
+  "payment": "Payment and delivery",
+  "wholesale": "Wholesale customers",
+  "socials": "Follow us on social media",
+  "copyright": "Ⓒ 2020 karapuz05.ru",
+  "privacy": "User agreement / privacy policy"
+},
+"loading": {
+  "text": "Loading..."
+},
+"topCards": {
+  "addToCart": "Add to cart",
+  "buyNow": "Buy now",
+  "addedToCart": "Product added to cart",
+  "quantity": "Quantity:",
+  "total": "Total:",
+  "goToCart": "Go to cart",
+  "close": "Close",
+  "addToFavorites": "Add to favorites",
+  "removeFromFavorites": "Remove from favorites"
+},
+"about": {
+  "badge": "Children's store «Karapuz»",
+  "hero": {
+    "title": "The best",
+    "highlight": "for a happy",
+    "subtitle": "childhood",
+    "description": "We created a place where parents can find everything they need for their little ones. From the first days of life to the first big discoveries.",
+    "catalog": "Go to catalog",
+    "contacts": "Contact us",
+    "years": "years together",
+    "customers": "customers"
+  },
+  "mission": {
+    "title": "Our mission",
+    "text": "Make childhood brighter and happier."
+  },
+  "story": {
+    "label": "About us",
+    "title": "We understand parents because we care about what matters most",
+    "text1": "«Karapuz» is a modern children's store created for parents who want to choose only the best for their children.",
+    "text2": "We carefully select our products, monitor quality and strive to make shopping as pleasant, convenient and stress-free as possible."
+  },
+  "points": {
+    "quality": "Quality and safe products",
+    "brands": "Well-known and trusted brands",
+    "attention": "Attentive approach to every customer",
+    "service": "Convenient and modern service"
+  },
+  "stats": {
+    "years": "years caring for children",
+    "customers": "happy customers",
+    "products": "products in catalog",
+    "care": "care and love"
+  },
+  "advantages": {
+    "label": "Why choose us",
+    "title": "Small details that make a big difference",
+    "description": "We strive to make every purchase a pleasant part of caring for your little one.",
+    "care": {
+      "title": "Caring for children",
+      "text": "We choose products as if we were buying them for our own children."
+    },
+    "quality": {
+      "title": "Trusted quality",
+      "text": "We work only with reliable manufacturers and quality materials."
+    },
+    "delivery": {
+      "title": "Fast delivery",
+      "text": "We help you receive the products you need quickly and conveniently."
+    },
+    "support": {
+      "title": "Always here for you",
+      "text": "Our team is always ready to help you choose and answer your questions."
+    }
+  },
+  "cta": {
+    "title": "Everything for a happy childhood",
+    "description": "Discover quality products for little ones and make every day of your child's life even more comfortable.",
+    "button": "View catalog"
+  }
+},
+"blog": {
+  "breadcrumbs": {
+    "home": "Home",
+    "blog": "Blog"
+  },
+  "title": "Blog",
+  "read": "Read",
+  "next": "Next",
+  "nextArticle": "Read the next article",
+  "posts": {
+    "1": {
+      "title": "Nutrition in the First Trimester",
+      "desc": "What to eat to help your baby feel comfortable and well during the first months of pregnancy"
+    },
+    "2": {
+      "title": "Nutrition During Pregnancy",
+      "desc": "Proper nutrition helps the mother feel better and take care of the baby's health"
+    },
+    "3": {
+      "title": "How to Prepare for the Baby's Arrival",
+      "desc": "What future parents should prepare before the baby arrives"
+    },
+    "4": {
+      "title": "Caring for a Baby in the First Months",
+      "desc": "Useful tips for new parents on caring for a newborn baby"
+    },
+    "5": {
+      "title": "Baby Nutrition",
+      "desc": "Useful recommendations for creating a healthy diet for your baby"
+    },
+    "6": {
+      "title": "Baby Development",
+      "desc": "How to help your child develop properly from the first months of life"
+    },
+    "7": {
+      "title": "Choosing Children's Products",
+      "desc": "What to pay attention to when choosing products for your child"
+    },
+    "8": {
+      "title": "Your Child's Comfort at Home",
+      "desc": "Creating a cozy and safe space for your baby"
+    },
+    "9": {
+      "title": "First Complementary Foods",
+      "desc": "When and how to properly introduce your child to new foods"
+    },
+    "10": {
+      "title": "Going for Walks with Your Child",
+      "desc": "How to make walks comfortable and beneficial for your baby"
+    },
+    "11": {
+      "title": "Healthy Baby Sleep",
+      "desc": "Useful tips for establishing a healthy sleep routine"
+    },
+    "12": {
+      "title": "Choosing a Stroller",
+      "desc": "What parameters are important when choosing your first stroller"
+    },
+    "13": {
+      "title": "Children's Room",
+      "desc": "How to create a comfortable and safe room for your child"
+    },
+    "14": {
+      "title": "Developmental Toys",
+      "desc": "Which toys can help your baby develop and explore the world"
+    },
+    "15": {
+      "title": "Child Safety",
+      "desc": "Basic safety rules at home and outdoors"
+    },
+    "16": {
+      "title": "Clothes for Your Baby",
+      "desc": "How to choose comfortable and high-quality clothes for your child"
+    },
+    "17": {
+      "title": "Speech Development",
+      "desc": "How parents can help their child develop speech"
+    },
+    "18": {
+      "title": "Family Walks",
+      "desc": "Why family walks are important for a child's development"
+    },
+    "19": {
+      "title": "Caring for Your Baby's Health",
+      "desc": "Healthy habits for your child's well-being and good health"
+    },
+    "20": {
+      "title": "Choosing a Car Seat",
+      "desc": "How to choose a safe car seat for your child"
+    },
+    "21": {
+      "title": "Baby's First Toys",
+      "desc": "What to choose for your child's first games and development"
+    },
+    "22": {
+      "title": "Your Child's Daily Routine",
+      "desc": "How to gradually establish a comfortable daily routine"
+    },
+    "23": {
+      "title": "Development Through Play",
+      "desc": "Why play is an important part of a baby's development"
+    },
+    "24": {
+      "title": "Tips for New Parents",
+      "desc": "A few useful tips for parents of young children"
+    }
+  },
+  "article": {
+    "paragraph1": "During the first trimester of pregnancy, a woman's diet does not differ significantly from her usual diet, although her food preferences may change. However, it is already important to follow the principles of healthy eating to reduce the risk of morning sickness and lay the foundation for the baby's proper development.",
+    "paragraph2": "Try to include green salads with vegetable oil and sea fish in your daily menu. It is important to start taking folic acid, iodine, and vitamin E supplements and continue them throughout pregnancy. Due to the increased workload on the liver and kidneys, it is advisable to significantly limit spicy foods and seasonings such as pepper, mustard, and vinegar at the beginning of pregnancy. To reduce the load on the liver, replace fried and fatty foods with boiled and stewed dishes, and limit butter, high-fat sour cream, cream, and vegetable oil. Choose low-fat cottage cheese. Along with vegetables and fruits, eat whole-grain bread because it contains fiber and B vitamins.",
+    "quote": "During the first trimester of pregnancy, a woman's diet does not differ significantly from her usual diet, although her food preferences may change. However, it is already important to follow the principles of healthy eating to reduce the risk of morning sickness and lay the foundation for the baby's proper development.",
+    "extraParagraph": "During pregnancy, the body needs enough iron to prevent anemia in both the mother and baby and to build up iron stores for breastfeeding. For this reason, include buckwheat and nuts in your diet regularly."
+  }
+},
+"cart": {
+  "inCart": "In cart: {{count}} items",
+  "empty": {
+    "title": "Your cart is empty",
+    "description": "Add products to place an order",
+    "button": "Go to catalog"
+  },
+  "inStock": "In stock",
+  "deleted": "You removed “{{name}}”",
+  "restore": "Restore",
+  "shipping": "Delivery",
+  "promoCode": "Promo code",
+  "products": "Products",
+  "discount": "Discount",
+  "total": "Total",
+  "checkout": "Proceed to checkout"
+},
+"catalogPage": {
+  "breadcrumbs": {
+    "home": "Home",
+    "catalog": "Catalog"
+  },
+  "categories": {
+    "cribs": "Cribs",
+    "strollers": "Strollers",
+    "carSeats": "Car seats",
+    "clothes": "Clothes",
+    "feeding": "Feeding",
+    "hygiene": "Hygiene and care",
+    "smartToys": "Smart toys"
+  },
+  "allProducts": "All products",
+  "searchResults": "Search results",
+  "filter": "Filter",
+  "foundProducts": "Products found: {{count}}",
+  "productsCount": "Products: {{count}}",
+  "sortBy": "Sort by:",
+  "sort": {
+    "popular": "popularity",
+    "priceAsc": "price: low to high",
+    "priceDesc": "price: high to low"
+  },
+  "addToCart": "Add to cart",
+  "buyNow": "Buy in one click",
+  "new": "NEW",
+  "showMore": "Show more",
+  "notFound": {
+    "title": "Nothing found",
+    "description": "Try changing your search query or selecting another product category.",
+    "button": "Go to catalog"
+  }
+},
+"catalogFilters": {
+  "breadcrumbs": {
+    "home": "Home",
+    "catalog": "Catalog"
+  },
+  "selectedFilters": "Selected filters",
+  "onlySales": "On sale only",
+  "priceRange": "Price: {{from}} – {{to}}",
+  "resetAll": "Reset all",
+  "price": "Price, ₽",
+  "from": "From",
+  "to": "To",
+  "brandSearch": "Search brand",
+  "foundProducts": "Products found: {{count}}",
+  "sortBy": "Sort by:",
+  "sort": {
+    "popular": "popularity",
+    "priceAsc": "price: low to high",
+    "priceDesc": "price: high to low"
+  },
+  "addToCart": "Add to cart",
+  "buyNow": "Buy in one click",
+  "new": "NEW",
+  "showMore": "Show more",
+  "notFound": {
+    "title": "No products found",
+    "description": "Try changing the filter parameters"
+  },
+  "resetFilters": "Reset filters"
+},
+"checkout": {
+  "empty": {
+    "title": "Your cart is empty",
+    "description": "Add products to your cart to place an order",
+    "button": "Continue shopping"
+  },
+  "breadcrumbs": {
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "payment": "Payment"
+  },
+  "title": "Checkout",
+  "orderComposition": "Order contents",
+  "quantity": "{{count}} pcs.",
+  "recipientCity": "Recipient's city",
+  "cityPlaceholder": "Locality",
+  "deliveryMethod": "Delivery method",
+  "delivery": {
+    "transport": {
+      "title": "Transport company",
+      "description": "CDEK, Delovye Linii, Mega Trans, TRADO",
+      "price": "120 ₽"
+    },
+    "post": {
+      "title": "Postal service",
+      "description": "To the nearest Russian Post office"
+    },
+    "pickup": {
+      "title": "Pickup",
+      "description": "At the pickup point"
+    },
+    "free": "Free"
+  },
+  "transportCompany": "Choose a transport company",
+  "deliveryCost": "Delivery cost:",
+  "deliveryAddress": "CDEK, Naberezhnaya St. 11-12",
+  "recipientAddress": "Recipient's address",
+  "fullName": "Full name as in passport*",
+  "fullNameHint": "This may be required when receiving the order",
+  "email": "Email address",
+  "phone": "Phone*",
+  "phoneHint": "Order status or pickup notifications will be sent to this phone",
+  "paymentMethod": "Payment method",
+  "payment": {
+    "card": "Pay online by card",
+    "cash": "Cash to the courier",
+    "paypal": "Pay online with PayPal"
+  },
+  "additional": "Additional information",
+  "comment": "Order comment",
+  "subscribe": "Notify me about promotions and discounts",
+  "goToPayment": "Proceed to payment",
+  "agreement": "By clicking «Proceed to payment», you agree to the user agreement and delivery terms",
+  "yourOrder": "Your order",
+  "edit": "Edit",
+  "promo": {
+    "placeholder": "Promo code",
+    "apply": "Apply",
+    "applied": "Promo code applied! 10% discount",
+    "notFound": "Promo code not found"
+  },
+  "quantityTotal": "Quantity ({{count}})",
+  "summary": {
+    "delivery": "Delivery",
+    "discount": "Discount",
+    "total": "Total"
+  }
+},
+"checkPayment": {
+  "breadcrumbs": {
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "payment": "Payment"
+  },
+  "orderNumber": "Order №123214155AAS",
+  "totalTitle": "Total to pay",
+  "newCard": "New card",
+  "cardNumber": "Card number",
+  "cardPlaceholder": "0000 0000 0000 0000",
+  "expiryLabel": "VALID",
+  "validityLabel": "THRU",
+  "expiryPlaceholder": "MM / YY",
+  "cvc": "CVC/CVV",
+  "timeForPayment": "to pay for the order",
+  "security": {
+    "tls": "Online payments are protected by a TLS certificate and 3D Secure protocol.",
+    "data": "Your payment data is protected and is not shared with third parties."
+  },
+  "saveCard": "Save card for future purchases",
+  "pay": "Pay",
+  "errors": {
+    "amount": "Order amount was not found",
+    "cardNumber": "Enter a valid card number",
+    "expiry": "Enter the card expiry date",
+    "cvc": "Enter a valid CVC code"
+  },
+  "success": {
+    "title": "Payment successful!",
+    "description": "Thank you for your purchase! Your order has been successfully paid and accepted for processing.",
+    "button": "Back to home"
+  }
+},
+"contacts": {
+  "breadcrumbs": {
+    "home": "Home",
+    "contacts": "Contacts"
+  },
+  "title": "Contacts",
+  "info": {
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email address",
+    "socials": "Follow us on social media"
+  },
+  "form": {
+    "title": "Write to us and we will answer all your questions",
+    "name": "Name",
+    "phone": "Phone",
+    "message": "Message",
+    "agreement": "I agree to the data processing and user agreement",
+    "submit": "Send",
+    "sent": "Form submission:"
+  },
+  "mapTitle": "Makhachkala, Batyraya St. 108"
+},
+"favorites": {
+  "title": "My favorites",
+  "empty": {
+    "title": "Your favorites are empty",
+    "description": "Add products you like by clicking the heart"
+  },
+  "addToCart": "Add to cart",
+  "buyNow": "Buy in one click"
+},
+"home": {
+  "hero": {
+    "badge": "For the little ones",
+    "title": "Everything you need",
+    "titleAccent": "for your child",
+    "description": "Explore our new collection of products for caring for your child",
+    "button": "View",
+    "slogan": "Care starts with the little things",
+    "quality": "Quality products",
+    "care": "Made with care for children",
+    "imageAlt": "Products for children"
+  },
+  "popularCategories": "Popular categories",
+  "view": "View",
+  "newProducts": "New arrivals",
+  "promo": {
+    "title": "All children's suits with a 10% discount",
+    "button": "View suits"
+  },
+  "bestOffer": "Best offer",
+  "popularProducts": "Popular products",
+  "categories": {
+    "furniture": {
+      "title": "Children's furniture",
+      "description": "Baby Expert, Baby Italia and others"
+    },
+    "strollers": {
+      "title": "Strollers",
+      "description": "Cybex, mima, moon, Hartan and others"
+    },
+    "carSeats": {
+      "title": "Children's car seats",
+      "description": "Welldon, HB, Cybex and others"
+    }
+  }
+},
+"notFound": {
+  "title": "Page not found",
+  "description": "We can't find the page you're looking for.",
+  "descriptionSecond": "It may not have been registered yet or it may not exist",
+  "homeButton": "Back to home"
+},
+"orders": {
+  "title": "My orders",
+  "order": "Order",
+  "product": "CYBEX PRIAM LUX JEREMY SCOTT SPECIAL EDITION 2-in-1 stroller on TREKKING frame",
+  "quantity": "1 pc.",
+  "status": {
+    "received": "Received",
+    "cancelled": "Cancelled",
+    "inTransit": "In transit"
+  },
+  "payment": {
+    "online": "Pay online by card"
+  },
+  "delivery": {
+    "transport": "Transport company"
+  },
+  "deliveryDate": "from May 25",
+  "free": "Free",
+  "noComment": "-",
+  "details": {
+    "orderDate": "Order date",
+    "paymentMethod": "Payment method",
+    "deliveryMethod": "Delivery method",
+    "deliveryAddress": "Delivery address",
+    "recipient": "Recipient",
+    "deliveryDate": "Delivery date",
+    "comment": "Comment",
+    "deliveryCost": "Delivery cost"
+  }
+},
+"payment": {
+  "breadcrumbs": {
+    "home": "Home",
+    "payment": "Payment and delivery"
+  },
+  "title": "Payment and delivery",
+  "tabs": {
+    "payment": "Payment",
+    "delivery": "Delivery"
+  },
+  "paymentOptions": {
+    "moscow": {
+      "title": "Payment options in Moscow",
+      "text1": "1. Pay the courier in cash upon delivery;",
+      "text2": "2. Pay the courier by Visa/MasterCard/MIR bank cards without commission;",
+      "text3": "3. Payment by invoice for individuals and legal entities to the organization's bank account. The order will be delivered the day after the funds are credited to our organization's account."
+    },
+    "regions": {
+      "title": "Payment options for Russian regions",
+      "text1": "1. Pay online through the website using Visa/MasterCard/MIR bank cards without commission;",
+      "text2": "2. Pay by invoice for individuals and legal entities to the organization's bank account;",
+      "text3": "3. Orders shipped to Russian regions are sent only after 100% prepayment;",
+      "text4": "4. Delivery between terminals is paid upon receiving the item at the transport company's terminal (except cities with free delivery)."
+    }
+  },
+  "card": {
+    "title": "Paying by bank card on the website",
+    "text1": "Payment by bank card is made directly on the website online. When placing an order, select the payment method «Pay by bank card». Payment is made on the website immediately after placing the order.",
+    "text2": "After confirming the order contents, your personal information and delivery address, a page will open where you will be asked to enter the payer's bank card details:",
+    "number": "card number",
+    "owner": "cardholder's full name",
+    "expiry": "card expiry date",
+    "cvv": "CVV/CVC code",
+    "text3": "After entering the card details, carefully check all fields and click the «Pay» button.",
+    "text4": "The transaction is processed through the authorization server of the bank's processing center using MIR, VISA and MasterCard payment cards (Russia and CIS)."
+  },
+  "bankTransfer": {
+    "title": "Bank transfer",
+    "text1": "Payment for the order is made by bank payment order to the store's settlement account.",
+    "text2": "When placing an order, select «Bank transfer» as the payment method. Our operator will contact you and issue an invoice. Payment can be made at any bank branch or Russian Post office.",
+    "text3": "Please note that banks may charge a commission (usually 1.5–2%) for processing the payment."
+  },
+  "delivery": {
+    "moscow": {
+      "title": "Delivery in Moscow",
+      "text1": "We deliver orders in Moscow from Monday to Saturday, from 9:00 to 19:00.",
+      "text2": "Orders placed before 14:00 will be delivered the next day (except Sunday).",
+      "text3": "The courier will call you on the delivery day 40–60 minutes before arriving at the address. Please provide the details of the actual order recipient.",
+      "text4": "Orders that require delivery by a transport company will be delivered to the transport company's terminal within 1–2 days after payment is received."
+    },
+    "regions": {
+      "title": "We ship goods to any city in Russia!",
+      "text1": "1. Shipment is made only after 100% prepayment",
+      "text2": "2. Delivery to the transport company's terminal in Moscow and Makhachkala and preparation of shipping documents are FREE",
+      "text3": "3. Delivery of goods with paid shipping is charged according to the transport company's rates",
+      "text4": "4. Goods are shipped from the terminal in Moscow or Makhachkala to the terminal in the destination city",
+      "text5": "5. Goods are delivered in branded packaging, but upon request and at the customer's expense, we can order additional protective crating",
+      "attention": "Attention!",
+      "attentionText": "Due to changes in federal laws, a new mandatory procedure has been introduced for accepting and handing over cargo for forwarding/transportation and verifying customer and cargo information. Transport companies require the recipient's full passport details, including:",
+      "passport": {
+        "fullName": "full name",
+        "series": "passport series",
+        "number": "passport number",
+        "issueDate": "passport issue date"
+      },
+      "text6": "Since September 1, 2016, transport companies have not accepted cargo for transportation without these details.",
+      "text7": "6. Furniture, plastic and glass products without rigid packaging, and electronic devices require protective crating. The crating is paid by the recipient at the transport company's terminal upon receipt. The cost depends on the destination city and cargo dimensions and is calculated by the transport company.",
+      "text8": "7. After the funds are received in the account, the goods are shipped to the transport company within 1–3 business days.",
+      "text9": "After shipment, we will send you all receipt numbers, as well as the address and phone number of the transport company where you will receive the cargo."
+    }
+  }
+},
+"personal": {
+  "title": "Personal details",
+  "notAuthorized": "You are not authorized",
+  "defaultAddress": "Dushanbe, Sino Ave. 42",
+  "fields": {
+    "name": "Name",
+    "phone": "Phone",
+    "phonePlaceholder": "+992..."
+  },
+  "actions": {
+    "save": "Save",
+    "add": "Add"
+  },
+  "addressTitle": "Delivery address",
+  "password": {
+    "title": "Password",
+    "old": "Old password",
+    "new": "New password",
+    "confirm": "Repeat new password"
+  },
+  "messages": {
+    "dataSaved": "Data saved successfully",
+    "phoneSaved": "Phone saved successfully",
+    "passwordChanged": "Password changed successfully"
+  },
+  "errors": {
+    "enterPasswordData": "Enter the data required to change the password",
+    "oldPassword": "Enter your old password",
+    "newPassword": "Enter a new password",
+    "passwordLength": "The new password must contain at least 6 characters",
+    "passwordMismatch": "The new passwords do not match",
+    "userNotFound": "User not found",
+    "userError": "User error",
+    "wrongOldPassword": "Incorrect old password",
+    "passwordChangeFailed": "Failed to change the password"
+  }
+},
+"productDetails": {
+  "notFound": "Product not found",
+  "backToCatalog": "Back to catalog",
+  "breadcrumbs": {
+    "catalog": "Catalog"
+  },
+  "zoom": "Zoom in",
+  "article": "SKU",
+  "noReviews": "No reviews",
+  "addToFavorites": "Add to favorites",
+  "productImage": "Product image",
+  "addToCart": "Add to cart",
+  "buyNow": "Buy in one click",
+  "yourCity": "Your city:",
+  "deliveryDetails": "More about delivery",
+  "foundCheaper": "Found it cheaper?",
+  "tabs": {
+    "description": "Description",
+    "specifications": "Specifications",
+    "reviews": "Reviews"
+  },
+  "description": "{{title}} — a quality product from the «{{category}}» category. The product is designed with your child's comfort and safety in mind.",
+  "featuresTitle": "Features:",
+  "features": {
+    "safeMaterials": "High-quality and safe materials",
+    "modernDesign": "Modern design",
+    "easyUse": "Easy to use",
+    "dailyUse": "Suitable for everyday use",
+    "childComfort": "Designed for your child's comfort"
+  },
+  "specifications": {
+    "category": "Category",
+    "article": "SKU",
+    "price": "Price"
+  },
+  "reviewEmpty": "There are no reviews yet. Be the first to leave a review about this product!",
+  "leaveReview": "Leave a review",
+  "reviewModal": {
+    "title": "Write a review about our product",
+    "name": "Your name*",
+    "advantages": "Advantages",
+    "disadvantages": "Disadvantages",
+    "comment": "Comment",
+    "send": "Send"
+  },
+  "success": {
+    "title": "Sent",
+    "description": "Thank you for your review! Your review has been successfully submitted.",
+    "button": "Done"
+  },
+  "relatedProducts": "You may also like"
+},
+"register": {
+  "title": "Sign up",
+  "fields": {
+    "name": "Name",
+    "email": "Email address",
+    "password": "Password",
+    "confirmPassword": "Repeat password"
+  },
+  "captcha": "Insert captcha",
+  "agreement": {
+    "start": "I agree to the",
+    "userAgreement": "user agreement",
+    "and": "and",
+    "privacy": "privacy policy"
+  },
+  "button": "Sign up",
+  "errors": {
+    "name": "Enter your name",
+    "email": "Enter your email address",
+    "passwordLength": "Password must contain at least 6 characters",
+    "passwordMismatch": "Passwords do not match",
+    "agreement": "You must accept the user agreement"
+  }
+},
+"sales": {
+  "breadcrumbs": {
+    "home": "Home",
+    "sales": "Sales"
+  },
+  "title": "Sales",
+  "promotions": {
+    "1": {
+      "title": "Tasty discounts up to 25% off all baby food",
+      "date": "25.05.2020",
+      "paragraphs": {
+        "0": "During the first trimester of pregnancy, a woman's diet does not differ significantly from her usual menu, although her food preferences may change. However, it is already important to start following the principles of proper nutrition to avoid toxicosis and provide a healthy foundation for the proper development of the embryo.",
+        "1": "Try to include green salads with vegetable oil and sea fish in your daily menu. It is important to start taking folic acid, iodine and vitamin E supplements and continue taking them throughout pregnancy. Due to the increased workload on the liver and kidneys, it is advisable to significantly limit spicy dishes and seasonings such as pepper, mustard and vinegar at the beginning of pregnancy. To reduce the load on the liver, try to replace fried and fatty foods with boiled and stewed dishes, and limit the consumption of butter, high-fat sour cream, cream and vegetable oil."
+      }
+    },
+    "2": {
+      "title": "Special offers on products for little ones",
+      "date": "28.05.2020",
+      "paragraphs": {
+        "0": "We have prepared special offers on popular products for little ones. This is a great opportunity to purchase everything your child needs at an attractive price.",
+        "1": "Keep an eye on our promotions and special offers. We regularly add new products and make shopping even more beneficial for parents."
+      }
+    },
+    "3": {
+      "title": "Big sale on children's products",
+      "date": "01.06.2020",
+      "paragraphs": {
+        "0": "The big sale is a great opportunity to purchase high-quality children's products at reduced prices. Popular product categories from our store are included in the promotion.",
+        "1": "The quantity of products at special prices is limited. Hurry to choose everything your child needs while the promotion is available."
+      }
+    }
+  }
+},
+"wholesale": {
+  "breadcrumbs": {
+    "home": "Home",
+    "title": "Wholesale customers"
+  },
+  "title": "Wholesale customers",
+  "subtitle": "Fill out the form and we will send you our best partnership terms",
+  "form": {
+    "name": "Name*",
+    "phone": "Phone*",
+    "email": "Email address*",
+    "city": "City*",
+    "captcha": "Insert captcha",
+    "agreement": "I agree to the data processing and user agreement",
+    "submit": "Send"
+  },
+  "consoleMessage": "Wholesale customer form submission:"
+}
+}
