@@ -90,15 +90,7 @@ export default function Header() {
     const inputStyles = {
         '& .MuiOutlinedInput-root':{height:'48px',borderRadius:'8px',bgcolor:'#F8FBFC',fontSize:'13px','& fieldset':{borderColor:'rgba(127,201,240,0.2)'},'&:hover fieldset':{borderColor:'#7FC9F0'},'&.Mui-focused fieldset':{borderColor:'#7FC9F0'}}
     }
-    const LoginForm = () => (
-        <>
-            <TextField fullWidth placeholder={t('account.email')} type="email" size="small" value={loginEmail} onChange={(e) => {setLoginEmail(e.target.value);setLoginError('')}} sx={{...inputStyles,mb:'13px'}} />
-            <TextField fullWidth placeholder={t('account.password')} type="password" size="small" value={loginPassword} onChange={(e) => {setLoginPassword(e.target.value);setLoginError('')}} onKeyDown={(e) => e.key === 'Enter' && handleLogin()} sx={{...inputStyles,mb:'10px'}} />
-            {loginError && <Typography sx={{color:'#E57373',fontSize:'12px',mb:'12px'}}>{loginError}</Typography>}
-            <Button onClick={handleLogin} fullWidth sx={{height:'46px',bgcolor:'#7FC9F0',color:'#FFFFFF',borderRadius:'9px',textTransform:'none',fontSize:'14px',fontWeight:500,'&:hover':{bgcolor:'#6CBBE4'}}}>{t('account.login')}</Button>
-            <Typography sx={{fontSize:'13px',textAlign:'center',color:'#7FC9F0',mt:'16px',cursor:'pointer'}}>{t('account.forgotPassword')}</Typography>
-        </>
-    )
+
     const LanguageButton = () => (
         <Button onClick={toggleLanguage} startIcon={<LanguageOutlined sx={{fontSize:'18px!important'}} />} sx={{minWidth:'auto',p:'5px 8px',borderRadius:'7px',color:'#446B80',textTransform:'none',fontSize:'12px',fontWeight:600,transition:'0.3s','&:hover':{bgcolor:'rgba(127,201,240,0.1)'}}}>
             {currentLanguage.toUpperCase()}
@@ -239,7 +231,11 @@ export default function Header() {
                             <Typography onClick={() => {navigate('/register');handleAccountClose()}} sx={{fontFamily:'"Balsamiq Sans", sans-serif',fontSize:'19px',fontWeight:700,color:'#7FC9F0',cursor:'pointer','&:hover':{textDecoration:'underline'}}}>{t('account.register')}</Typography>
                             <IconButton onClick={handleAccountClose} sx={{width:'34px',height:'34px',color:'#446B80'}}><CloseOutlined /></IconButton>
                         </Box>
-                        <LoginForm />
+                        <TextField fullWidth placeholder={t('account.email')} type="email" size="small" value={loginEmail} onChange={(e) => {setLoginEmail(e.target.value);setLoginError('')}} sx={{...inputStyles,mb:'13px'}} />
+                        <TextField fullWidth placeholder={t('account.password')} type="password" size="small" value={loginPassword} onChange={(e) => {setLoginPassword(e.target.value);setLoginError('')}} onKeyDown={(e) => e.key === 'Enter' && handleLogin()} sx={{...inputStyles,mb:'10px'}} />
+                        {loginError && <Typography sx={{color:'#E57373',fontSize:'12px',mb:'12px'}}>{loginError}</Typography>}
+                        <Button onClick={handleLogin} fullWidth sx={{height:'46px',bgcolor:'#7FC9F0',color:'#FFFFFF',borderRadius:'9px',textTransform:'none',fontSize:'14px',fontWeight:500,'&:hover':{bgcolor:'#6CBBE4'}}}>{t('account.login')}</Button>
+                        <Typography sx={{fontSize:'13px',textAlign:'center',color:'#7FC9F0',mt:'16px',cursor:'pointer'}}>{t('account.forgotPassword')}</Typography>
                     </Box>
                 ) : (
                     <Box sx={{py:'12px'}}>
@@ -266,7 +262,13 @@ export default function Header() {
                             <IconButton onClick={() => setAccountOpen(false)} sx={{color:'#446B80'}}><CloseOutlined /></IconButton>
                         </Box>
                         <Divider sx={{borderColor:'rgba(68,107,128,0.12)'}} />
-                        <Box sx={{px:'20px',py:'25px'}}><LoginForm /></Box>
+                        <Box sx={{px:'20px',py:'25px'}}>
+                            <TextField fullWidth placeholder={t('account.email')} type="email" size="small" value={loginEmail} onChange={(e) => {setLoginEmail(e.target.value);setLoginError('')}} sx={{...inputStyles,mb:'13px'}} />
+                            <TextField fullWidth placeholder={t('account.password')} type="password" size="small" value={loginPassword} onChange={(e) => {setLoginPassword(e.target.value);setLoginError('')}} onKeyDown={(e) => e.key === 'Enter' && handleLogin()} sx={{...inputStyles,mb:'10px'}} />
+                            {loginError && <Typography sx={{color:'#E57373',fontSize:'12px',mb:'12px'}}>{loginError}</Typography>}
+                            <Button onClick={handleLogin} fullWidth sx={{height:'46px',bgcolor:'#7FC9F0',color:'#FFFFFF',borderRadius:'9px',textTransform:'none',fontSize:'14px',fontWeight:500,'&:hover':{bgcolor:'#6CBBE4'}}}>{t('account.login')}</Button>
+                            <Typography sx={{fontSize:'13px',textAlign:'center',color:'#7FC9F0',mt:'16px',cursor:'pointer'}}>{t('account.forgotPassword')}</Typography>
+                        </Box>
                     </Box>
                 ) : (
                     <Box sx={{minHeight:'100vh',display:'flex',flexDirection:'column'}}>

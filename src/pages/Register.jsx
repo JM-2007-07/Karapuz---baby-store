@@ -86,7 +86,7 @@ export default function Register() {
                     </Typography>
                 </Box>
                 <Box sx={{mt:'8px'}}>
-                    <ButtonMain type="submit" disabled={!formData.agreement} sx={{width:'170px',height:'44px',fontSize:'14px'}}>
+                    <ButtonMain onClick={handleSubmit} disabled={!formData.agreement} sx={{width:'170px',height:'44px',fontSize:'14px'}}>
                         {t('register.button')}
                     </ButtonMain>
                 </Box>
